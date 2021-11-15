@@ -8,17 +8,17 @@
 
 <p align="center">	
 	
-  <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-JulioCesar012-%2304D361">
+  <a href="https://www.linkedin.com/in/julio-cesar-filho-759653171/">
+    <img alt="Made by JulioCesar012" src="https://img.shields.io/badge/made%20by-JulioCesar012-%2304D361">
   </a>
   
-  <a href="https://github.com/DanielObara/NLW-3.0/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JulioCesar012/WebsitePortifolioReact">
+  <a href="https://github.com/JulioCesar012/Clone_Ui_Pinterest/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JulioCesar012/Clone_Ui_Pinterest">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/JulioCesar012/WebsitePortifolioReact/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JulioCesar012/WebsitePortifolioReact?style=social">
+   <a href="https://github.com/JulioCesar012/Clone_Ui_Pinterest/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JulioCesar012/Clone_Ui_Pinterest?style=social">
   </a>
 </p>
 
@@ -51,10 +51,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     # Abra o arquivo padrão HTML
     * Rode o arquivo index.html (se você usa o vscode, poderá usar a extensão Live Server para rodar o projeto em uma porta padrão)
     
-
-    # Iniciar o projeto
-    $ yarn start
-    
     #Desfrutar desse recurso massa
 ```
 ---
@@ -62,3 +58,19 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## ℹ️ Como rodar o HTML com Live Server
 
 * Ao instalar a extensão, acesse seu arquivo index.html e com o botão direito selecione a opção "Open with Live Server"
+
+
+## 🤔 How to contribute
+
+-  Make a fork;
+-  Create a branck with your feature: `git checkout -b my-feature`;
+-  Commit changes: `git commit -m 'feat: My new feature'`;
+-  Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/JulioCesar012/Clone_Ui_Pinterest/blob/master/LICENCE) for details.
+
+Made with ♥ by JulioCesar012 :wave: [Get in touch!](https://www.linkedin.com/in/julio-cesar-filho-759653171/)
