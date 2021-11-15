@@ -1,0 +1,80 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 18px 15px 24px;
+
+    .container-logo {
+        display: flex;
+        align-items: center;
+
+        .logo {
+            width: 62px;
+            fill: currentColor;
+            color: $red;
+            object-fit: cover;
+        }
+
+        h3 {
+            color: $red;
+            font-size: 20px;
+            font-weight: 800;
+            margin-left: -6px;
+        }
+    }
+
+    nav {
+        display: flex;
+        align-items: center;
+
+
+        ul {
+            li {
+                padding: 16px;
+
+                a {
+                    text-decoration: none;
+                    font-size: 16px;
+                    color: $black;
+                    font-weight: 700;
+
+                    &:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+
+        .buttons {
+            display: flex;
+            margin-left: 24px;
+
+            button {
+                font-size: 16px;
+                font-weight: 700;
+                padding: 11px 12px;
+                border-radius: 24px;
+                border: none;
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            button:hover {
+                cursor: pointer;
+                opacity: 0.9;
+            }
+
+            .login {
+                color: $white;
+                background: $red;
+            }
+
+            .signup {
+                margin-left: 16px;
+                background: $gray_light;
+            }
+        }
+    }
+}
